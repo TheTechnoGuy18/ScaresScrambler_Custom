@@ -1,8 +1,8 @@
-# Scares-Scrambler-Build-13
-The files and stuff for the Scares Scrambler Build 13
+# Scares-Scrambler-Build-13-Romanian
+The files and stuff for the Scares Scrambler Build 13 Romanian edition
 
 
-Hey! Thanks for trying out the Scares Scramber! If you're not sure how to work this thing,
+Hey! Thanks for trying out the Scares Scramlber! If you're not sure how to work this thing,
 then go watch this tutorial or something idk: https://www.youtube.com/watch?v=MOQykOsMeEU
 
 If you think the corrupter has frozen, give it a couple seconds. Since Python is an interpreted
@@ -21,3 +21,5 @@ work 100% perfectly yet.
 Anyways, that's really all I have to say. Enjoy the corrupter!
 
 PS: I forgot to add Ellex's and Tyler's names to the bugtesters. They helped as well!
+Credit to: www.youtube.com/scares009
+Translated by: www.youtube.com/TheTechnoGuy18
