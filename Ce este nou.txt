@@ -1,7 +1,7 @@
 ﻿Salut tuturor! A trecut ceva timp de când am actualizat acest lucru! Iată o listă cu (în mare parte) tot ce este nou în această actualizare:
 
 -A fost adăugată o fereastră „Deschide fișier” corespunzătoare pentru selectarea fișierelor corupte.
--S-a adăugat o modalitate de a salva și încărca presetările de corupție. Corrupterul va deschide automat primul fișier presetat găsit atunci când este deschis.
+-S-a adăugat o modalitate de a salva și încărca presetările de corupție. Corrupterul va deschide automat primul fișier preset găsit atunci când este deschis.
 -Adăugat suport hexadecimal.
 -S-a adăugat un mod întunecat.
 -S-a adăugat o pictogramă pentru fereastra și fișierul .exe.
@@ -11,8 +11,7 @@
 
 -S-a rezolvat o eroare cu numere negative în algoritmul „Incrementer”.
 -S-a rezolvat un bug cu spațiul de bloc aleatoriu care a determinat blocarea coruptorului.
--S-a rezolvat o eroare cu spațiu de exponenți în care exponentul ar deveni prea mare și nu s-ar corup.
+-S-a rezolvat o eroare cu spațiul de exponenți în care exponentul ar deveni prea mare și nu s-ar corupe.
 
--Scos Herobrine.
 
 Sper să vă distrați cu aceste lucruri noi! :)))
